@@ -32,8 +32,9 @@ const db = {
                 resolve()                
             })
         })
+    },
+    clear(){
 
-        
     }
 }
 module.exports = db;
